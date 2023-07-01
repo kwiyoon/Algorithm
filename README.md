@@ -31,7 +31,9 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoni" />
     &nbsp;
     &nbsp;
-    <img src="https://velog-readme-stats.vercel.app/api?name=zzoni&color=dark" />
+    <a href="https://velog.io/@zzoni/series/백준">
+      <img style="height: auto; width: 40%;" src="https://velog-readme-stats.vercel.app/api?name=zzoni&color=dark" />
+    </a>  
   </div>
 
 
