@@ -2,13 +2,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&text=Algorithm%20study&color=0:FAF0E6,100:FFB6C1)
 
-<br/>
+</div>
+
+---
 
 ###  :soccer: Goal :goal_net:
 ◾ 혼자하는 알고리즘 공부 <br>기초부터 차근차근<br>
 ◾ 목표 : 1일 1문제
 
-<br/>
+---
 
 ###  :pencil2: how to record? :pencil2:
 ◾ [백준허브](https://github.com/BaekjoonHub/BaekjoonHub) 이용 - (문제 해결 시 자동 push)
@@ -21,12 +23,14 @@
 ✔ 필요할 땐 풀이 과정을 작성하여 push OR velog에 작성
 
 
-<br/><br/>
+<br/>
 
 ---
 
 <br/>
-
+<br/>
+<br/>
+<div align="center"> 
   <div>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoni" />
     &nbsp;
